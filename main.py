@@ -233,7 +233,7 @@ def checktoken(token, proxy=None, output_dir=None):
 
         response = client.get("https://discord.com/api/v9/users/@me", headers=headers)
         if response.status_code != 200:
-            sprint(f"[Token: {token[:39]}] [INVALID]", False)
+            sprint(f"{Fore.RESET}[{Fore.CYAN}Token: {Fore.MAGENTA}{token[:39]}{Fore.MAGENTA}{Fore.RESET}]{Fore.RESET} {Fore.RESET}|{Fore.RESET} {Fore.CYAN}Flags{Fore.CYAN}: {Fore.RESET}[{Fore.RESET}{Fore.MAGENTA}INVALID{Fore.MAGENTA}{Fore.RESET}]{Fore.RESET}", False)
             data.invalid += 1
             data.checked += 1
             write(full_token, "invalid.txt", output_dir)
