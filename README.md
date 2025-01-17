@@ -50,26 +50,27 @@
 ### **Dated Output Folder:**
 
 -All Checks are dated and oragnized in specific files and folder
-...
-output/
-  [YYYY-MM-DD] [HH-MM-SS]/
-    invalid.txt
-    locked.txt
-    used.txt
-    valid.txt
-    1m-tokens.txt
-    3m-tokens.txt
-    2-boosts.txt
-    1-boost.txt
-    email-verified.txt
-    flagged.txt
-    ratelimited.txt
-    ...
+
+```output/```
+  ```[YYYY-MM-DD] [HH-MM-SS]/```
+    ```invalid.txt```
+    ```locked.txt```
+    ```used.txt```
+    ```valid.txt```
+    ```1m-tokens.txt```
+    ```3m-tokens.txt```
+    ```2-boosts.txt```
+    ```1-boost.txt```
+    ```email-verified.txt```
+    ```flagged.txt```
+    ```ratelimited.txt```
 
 --- 
 
-Disclaimer
-This tool is intended for educational purposes only. The developer is not responsible for any misuse of this software.
+### ⚠️ **Disclaimer**
+-This tool is not completely finished yet (can have error/bugs) so be comprehensive.
+-Dont buy a token checker on discord for $10 btw if you can have the src for free here.
+-**Stars Are Very Appreciated**
 
 ---
 
