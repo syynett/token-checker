@@ -52,18 +52,18 @@
 -All Checks are dated and oragnized in specific files and folder
 
 ```output/```
-  ```[YYYY-MM-DD] [HH-MM-SS]/```
-    ```invalid.txt```
-    ```locked.txt```
-    ```used.txt```
-    ```valid.txt```
-    ```1m-tokens.txt```
-    ```3m-tokens.txt```
-    ```2-boosts.txt```
-    ```1-boost.txt```
-    ```email-verified.txt```
-    ```flagged.txt```
-    ```ratelimited.txt```
+  - ```[YYYY-MM-DD] [HH-MM-SS]/```
+    - ```invalid.txt```
+    - ```locked.txt```
+    - ```used.txt```
+    - ```valid.txt```
+    - ```1m-tokens.txt```
+    - ```3m-tokens.txt```
+    - ```2-boosts.txt```
+    - ```1-boost.txt```
+    - ```email-verified.txt```
+    - ```flagged.txt```
+    - ```ratelimited.txt```
 
 --- 
 
