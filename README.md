@@ -68,9 +68,9 @@
 --- 
 
 ### ⚠️ **Disclaimer**
--This tool is not completely finished yet (can have error/bugs) so be comprehensive.
--Dont buy a token checker on discord for $10 btw if you can have the src for free here.
--**Stars Are Very Appreciated**
+- This tool is not completely finished yet (can have error/bugs) so be comprehensive.
+- Dont buy a token checker on discord for $10 btw if you can have the src for free here.
+- **Stars Are Very Appreciated**
 
 ---
 
