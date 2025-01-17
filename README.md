@@ -1,32 +1,51 @@
+# Synett Token Checker
 
-Synett Token Checker
+![Synett Token Checker](https://media.discordapp.net/attachments/1328850377864646767/1329788041539096626/WindowsTerminal_ikJwPWKA4l.png?ex=678b9d1f&is=678a4b9f&hm=7e4e38aa744180e2b5affd9dd13fec6bc6a6733854879afafcc758d20b31f1f8&)
 
+## Introduction
+**Synett Token Checker** is a powerful and efficient tool for analyzing Discord tokens with advanced features such as boost availability checks, verification statuses, flag detection, and more. Designed with a clean user interface, multi-threaded performance, and advanced TLS spoofing, it ensures maximum efficiency and stealth during token checks.
 
-Introduction
-Synett Token Checker is a powerful and efficient tool for analyzing Discord tokens with advanced features such as boost checking, verification status, flag detection, and more. Designed with a clean UI, multi-threaded performance, and TLS spoofing, it ensures maximum efficiency and stealth during token checks.
+---
 
-Features
-🔍 Comprehensive Token Checks
-Boost Availability: Detect how many boosts are available for each token.
+## Features
 
-Verification Status:
+### 🔍 **Comprehensive Token Checks**
+- **Boost Availability**: Detect how many boosts are available for each token.
+- **Verification Status**:
+  - Email Verified.
+  - Phone Verified.
+  - Not Verified.
+- **Flags**: Identify if tokens are flagged, unlocked, or valid.
+- **Subscription Details**: Check remaining subscription days.
 
-Email Verified
+### 📂 **Organized Output**
+- Automatically organizes results into dated folders for better tracking.
+- Output files include:
+  - `1m-tokens.txt`
+  - `3m-tokens.txt`
+  - `2-boosts.txt`
+  - `1-boost.txt`
+  - `email-verified.txt`
+  - `flagged.txt`
+  - And more...
 
-Phone Verified
+### ⚙️ **Easy Configuration**
+- **Proxyless** operation for added simplicity.
+- Supports **multi-threading** for faster processing.
+- Clear input file structure for tokens.
 
-Not Verified
+### 🖥️ **Clean User Interface**
+- Organized console displaying real-time updates and detailed statistics.
 
-Flag Status: Identify if tokens are flagged, unlocked, or valid.
+### 🛡️ **Safe and Undetectable**
+- Ensures **0% token locks** after checks.
+- No CAPTCHAs, token locks, or rate limits triggered.
 
-Subscription Details: Check the remaining subscription days.
+### 🧪 **Advanced TLS Spoofing**
+- Mimics legitimate traffic to avoid detection.
+- No risk of tokens being flagged or locked.
 
-📂 Dated Output Folder
-Automatically organizes results into dated folders for better tracking.
-
-Output files include:
-
-1m-tokens.txt
+---
 
 3m-tokens.txt
 
