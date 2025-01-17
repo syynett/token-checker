@@ -47,7 +47,7 @@
 - Mimics legitimate traffic to avoid detection.
 - No risk of tokens being flagged or locked.
 
-### **Dated Output Folder:**
+### 📂 **Dated Output Folder:**
 
 -All Checks are dated and oragnized in specific files and folder
 
