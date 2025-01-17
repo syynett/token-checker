@@ -1,4 +1,4 @@
-import threading, os, json, random, base64, datetime, time
+import os, json, random, base64, datetime, time
 from colorama import Fore
 from pathlib import Path
 from math import *
