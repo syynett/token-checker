@@ -67,12 +67,16 @@
 
 --- 
 
+### 🔥 **How to use**
+- 1. Input your tokens in ```./input/tokens.txt``` with format: ```email:pass:token```
+  2. Fill your proxies in ```./input/proxies.txt``` if you dont have proxies then leave blank and set proxyless to ```true``` in config file
+  3. Run cmd and run ```pip install -r requirements.txt```
+  4. Now your all done just ```run python main.py``` in the cmd !
+
+--- 
+
 ### ⚠️ **Disclaimer**
 - This tool is not completely finished yet (can have error/bugs) so be comprehensive.
 - Dont buy a token checker on discord for $10 btw if you can have the src for free here.
 - **Stars Are Very Appreciated**
 
----
-
-Contribution
-Feel free to submit issues or contribute by opening a pull request. We welcome all contributions to improve the tool further!
