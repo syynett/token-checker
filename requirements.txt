@@ -1,0 +1,3 @@
+colorama
+tls-client
+requests
