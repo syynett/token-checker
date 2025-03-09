@@ -1,6 +1,6 @@
 # Synett Token Checker
 
-![Synett Token Checker](https://cdn.discordapp.com/attachments/1327322280308772957/1337477003829317654/WindowsTerminal_7UMHPri26v.png?ex=67a79606&is=67a64486&hm=23ce17aaa538baf12f4a6cabdb86cd89ec809846cdc5c285e446a20e7ee0d346&)
+![Synett Token Checker](https://cdn.discordapp.com/attachments/1327322280308772957/1337477003829317654/WindowsTerminal_7UMHPri26v.png?ex=67ce7a46&is=67cd28c6&hm=9e99242a0c7881c419bfec193030d6fdf10c218300a26c8c3dffdd722d3fe1c0&)
 
 ## Introduction
 **Synett Token Checker** is a powerful and efficient tool for advanced Discord tokens check with advanced features such as boost availability checks, verification status, flag detection, and more. Designed with a clean user interface, multi-threaded performance, and advanced TLS spoofing, it ensures maximum efficiency and stealth during token checks.
