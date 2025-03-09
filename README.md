@@ -43,7 +43,7 @@
 - No CAPTCHAs, token locks, or rate limits triggered.
 - Recommand to use proxies for more safety
 
-### 🧪 **Advanced TLS Spoofing**
+### 🧪 **TLS Spoofing**
 - Mimics legitimate traffic to avoid detection.
 - No risk of tokens being flagged or locked.
 
@@ -77,6 +77,5 @@
 
 ### ⚠️ **Disclaimer**
 - This tool is not completely finished yet (can have error/bugs) so be comprehensive.
-- Dont buy a token checker on discord for $10 btw if you can have the src for free here.
 - **Stars Are Very Appreciated**
 
